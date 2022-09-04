@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\bin\Debug\net6.0\GenericsHomeWork.exe
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\bin\Debug\net6.0\GenericsHomeWork.deps.json
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\bin\Debug\net6.0\GenericsHomeWork.runtimeconfig.json
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\bin\Debug\net6.0\GenericsHomeWork.dll
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\bin\Debug\net6.0\GenericsHomeWork.pdb
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.AssemblyInfo.cs
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.dll
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\refint\GenericsHomeWork.dll
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.pdb
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\GenericsHomeWork.genruntimeconfig.cache
+C:\BettrootCourses\lesson15\HomeWork\GenericsHomeWork\obj\Debug\net6.0\ref\GenericsHomeWork.dll
